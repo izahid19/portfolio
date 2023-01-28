@@ -318,7 +318,7 @@ main {
   bottom: -150px;
 }
 .add-box li {
-  background: rgba(102, 252, 241, 0.3);
+  background: #F8EDE3;
 }
 
 .circles li:nth-child(1) {
