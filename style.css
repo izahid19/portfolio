@@ -799,10 +799,11 @@ a.anchor {
   cursor: pointer;
   display: none;
 }
-.menu-btn:hover{
-  color: #232a36;
+.a.menu-btn:hover{
+  color: #FFB100;
   
 }
+
 .scroll-up-btn {
   position: fixed;
   height: 45px;
