@@ -190,7 +190,7 @@ main {
 
 .name-tag {
   text-transform: uppercase;
-  background: linear-gradient(to right, #FFB100 20%, #45a29e 100%);
+  background: linear-gradient(to right, #FFB100 20%, #FBC252 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: 900;
@@ -442,7 +442,7 @@ main {
   bottom: -8px;
   left: 50%;
   font-size: 20px;
-  color: #45a29e;
+  color: #FBC252;
   font-weight: 700;
   padding: 0 5px;
   background: #fff;
@@ -520,7 +520,7 @@ main {
 }
 .btn-b:hover,
 .btn-b:active {
-  background-color: #45a29e;
+  background-color: #FBC252;
   color: #1f2833;
 }
 
@@ -803,7 +803,7 @@ a.anchor {
   position: fixed;
   height: 45px;
   width: 42px;
-  background: #45a29e;
+  background: #FBC252;
   right: 30px;
   bottom: 10px;
   text-align: center;
@@ -1118,7 +1118,7 @@ a.anchor {
 
 .timeline-content span a {
   font-size: 15px;
-  color: #45a29e;
+  color: #FBC252;
   letter-spacing: 2px;
   font-weight: 600;
 }
