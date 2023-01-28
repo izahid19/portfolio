@@ -41,7 +41,8 @@ main {
 
 .loader-1 .loader-outter {
   position: absolute;
-  border: 4px solid #66fcf1;
+  border: 4px solid #FFB100;
+
   border-left-color: transparent;
   border-bottom: 0;
   width: 100%;
@@ -54,7 +55,7 @@ main {
 
 .loader-1 .loader-inner {
   position: absolute;
-  border: 4px solid #66fcf1;
+  border: 4px solid #FFB100;
   border-radius: 50%;
   width: 40px;
   height: 40px;
@@ -132,7 +133,7 @@ main {
   justify-content: space-between;
 }
 .navbar .logo a {
-  color: #66fcf1;
+  color: #FFB100;
   font-size: 40px;
   font-weight: 600;
 }
@@ -142,7 +143,7 @@ main {
   transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span {
-  color: #66fcf1;
+  color: #FFB100;
 }
 .navbar .menu li {
   list-style: none;
@@ -189,7 +190,7 @@ main {
 
 .name-tag {
   text-transform: uppercase;
-  background: linear-gradient(to right, #66fcf1 20%, #45a29e 100%);
+  background: linear-gradient(to right, #FFB100 20%, #45a29e 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: 900;
@@ -266,7 +267,7 @@ main {
 
 .large {
   font-size: 4em;
-  color: #66fcf1;
+  color: #FFB100;
 }
 
 .medium {
@@ -280,7 +281,7 @@ main {
 
 #lab_social_icon_footer .social:hover {
   transform: scale(1.1);
-  color: #66fcf1;
+  color: #FFB100;
 }
 
 #lab_social_icon_footer .social {
@@ -489,13 +490,13 @@ main {
 .btn-card {
   display: inline-block;
   background: #1f2833;
-  color: #66fcf1;
+  color: #FFB100;
   font-size: 20px;
   font-weight: 500;
   padding: 10px 30px;
   margin-top: 20px;
   border-radius: 6px;
-  border: 2px solid #66fcf1;
+  border: 2px solid #FFB100;
   transition: all 0.3s ease;
 }
 .btn-card {
@@ -503,7 +504,7 @@ main {
   font-size: 15px;
 }
 .btn-b {
-  background-color: #66fcf1;
+  background-color: #FFB100;
   color: #1f2833;
   transition: all 0s ease;
 }
@@ -513,7 +514,7 @@ main {
 }
 
 .btn-a:hover {
-  background: #66fcf1;
+  background: #FFB100;
   border: 3px solid #1f2833;
   color: #1f2833 !important;
 }
@@ -583,7 +584,7 @@ main {
   border: 1px solid rgba(0, 0, 0, 0.3);
   border-radius: 3px;
   overflow: hidden;
-  box-shadow: 0 0 4px #66fcf1;
+  box-shadow: 0 0 4px #FFB100;
 }
 
 .skill-level {
@@ -596,7 +597,7 @@ main {
 .firebase,
 .dsa,
 .git {
-  background-color: #66fcf1;
+  background-color: #FFB100;
 }
 
 .html {
@@ -1024,7 +1025,7 @@ a.anchor {
 
 .card_content {
   padding: 1rem;
-  background: linear-gradient(#1f2833 100%, #66fcf1 100%);
+  background: linear-gradient(#1f2833 100%, #FFB100 100%);
 }
 
 .card_title {
@@ -1096,7 +1097,7 @@ a.anchor {
   height: 16px;
   border-radius: 50%;
   border: 3px solid #1f2833;
-  background: #66fcf1;
+  background: #FFB100;
   margin-top: 10px;
   z-index: 1;
 }
@@ -1153,7 +1154,7 @@ a.anchor {
 
 /* contact us section  */
 .contact.title {
-  color: #66fcf1 !important;
+  color: #FFB100 !important;
 }
 
 .contact-sub {
@@ -1177,7 +1178,7 @@ ul {
   padding-bottom: 15px;
 }
 .single-cta i {
-  color: #66fcf1;
+  color: #FFB100;
   font-size: 30px;
   float: left;
   margin-top: 8px;
