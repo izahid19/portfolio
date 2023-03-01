@@ -620,7 +620,7 @@ main {
 }
 
 .firebase {
-  width: 40%;
+  width: 50%;
   -webkit-animation: firebase 10s linear;
   animation: firebase 10s linear;
 }
@@ -631,11 +631,7 @@ main {
   animation: dsa 10s linear;
 }
 
-.git {
-  width: 50%;
-  -webkit-animation: git 10s linear;
-  animation: git 10s linear;
-}
+
 
 /*-----------------------
 	  	Animations 
