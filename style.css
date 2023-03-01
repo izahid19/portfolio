@@ -449,6 +449,7 @@ main {
   transform: translateX(-50%);
 }
 
+
 .about .about-content {
   display: flex;
   flex-wrap: wrap;
@@ -601,19 +602,19 @@ main {
 }
 
 .html {
-  width: 65%;
+  width: 60%;
   -webkit-animation: html 10s linear;
   animation: html 10s linear;
 }
 
 .react {
-  width: 70%;
+  width: 50%;
   -webkit-animation: react 10s linear;
   animation: react 10s linear;
 }
 
 .node {
-  width: 45%;
+  width: 60%;
   -webkit-animation: node 10s linear;
   animation: node 10s linear;
 }
@@ -625,7 +626,7 @@ main {
 }
 
 .dsa {
-  width: 70%;
+  width: 60%;
   -webkit-animation: dsa 10s linear;
   animation: dsa 10s linear;
 }
