@@ -970,6 +970,7 @@ a.anchor {
 .main-card img {
   height: auto;
   max-width: 100%;
+  object-fit: cover;
   vertical-align: middle;
 }
 
@@ -1250,6 +1251,7 @@ ul {
   position: absolute;
   height: 99%;
   width: 100%;
+  object-fit: cover;
   left: 0;
   top: 0;
   bottom: 0;
@@ -1266,6 +1268,8 @@ ul {
 
 .content-image {
   width: 100%;
+  object-fit: max;
+  
 }
 
 .content-details {
